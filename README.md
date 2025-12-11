@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
