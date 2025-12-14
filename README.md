@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
