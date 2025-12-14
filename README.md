@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1025-divisor-game](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
