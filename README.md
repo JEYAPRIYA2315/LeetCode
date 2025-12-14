@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
