@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
