@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
