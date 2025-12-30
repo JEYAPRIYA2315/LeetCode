@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
