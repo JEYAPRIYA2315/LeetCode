@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
