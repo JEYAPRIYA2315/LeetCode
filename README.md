@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -121,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
