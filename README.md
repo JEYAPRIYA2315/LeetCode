@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0371-sum-of-two-integers) |
