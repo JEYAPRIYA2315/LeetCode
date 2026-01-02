@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
