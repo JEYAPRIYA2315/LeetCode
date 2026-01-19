@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -140,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0179-largest-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0268-missing-number) |
