@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0796-rotate-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
