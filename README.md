@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1046-last-stone-weight) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1929-concatenation-of-array) |
