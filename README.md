@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0313-super-ugly-number) |
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
+| [0819-most-common-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0819-most-common-word) |
 | [1004-max-consecutive-ones-iii](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0268-missing-number) |
+| [0819-most-common-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0819-most-common-word) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0819-most-common-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
