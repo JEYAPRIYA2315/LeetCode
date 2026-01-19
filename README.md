@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0258-add-digits) |
