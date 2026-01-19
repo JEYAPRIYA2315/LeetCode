@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0400-nth-digit) |
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
