@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1025-divisor-game](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1025-divisor-game) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
