@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0136-single-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1046-last-stone-weight) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
