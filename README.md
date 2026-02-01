@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0268-missing-number) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0191-number-of-1-bits) |
 ## String Matching
 |  |
@@ -257,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
