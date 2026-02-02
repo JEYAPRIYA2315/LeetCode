@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0313-super-ugly-number) |
+| [0414-third-maximum-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0792-binary-search) |
 | [0819-most-common-word](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0819-most-common-word) |
 | [1004-max-consecutive-ones-iii](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0414-third-maximum-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Brainteaser
 |  |
