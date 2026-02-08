@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0509-fibonacci-number) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
