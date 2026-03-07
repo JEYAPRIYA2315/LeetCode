@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0313-super-ugly-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0338-counting-bits) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0189-rotate-array) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JEYAPRIYA2315/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
